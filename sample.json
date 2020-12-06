@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "photoId": 0,
+      "name": "",
+      "noteIds": [],
+      "eventIds": []
+    }
+  ],
+  "pins": [
+    {
+      "id": 0,
+      "authorUserId": 0,
+      "privateUserIds": [],
+      "photoIds": [0],
+      "eventIds": [],
+      "publishTime": 0,
+      "latitude": 0,
+      "longitude": 0,
+      "latitudeDelta": 0,
+      "longitudeDelta": 0,
+      "pinColor": "",
+      "title": "",
+      "description": "",
+      "isPublic": true
+    }
+  ],
+  "events": [
+    {
+      "id": 0,
+      "pinId": 0,
+      "userIds": [0],
+      "photoIds": [0],
+      "publishTime": 0,
+      "rating": 0,
+      "description": "",
+      "startTime": 0,
+      "endTime": 0,
+      "likes": 0
+    }
+  ],
+  "reviews": [
+    {
+      "id": 0,
+      "pinId": 0,
+      "authorUserId": 0,
+      "photoIds": [0],
+      "publishTime": 0,
+      "rating": 0,
+      "bodyText": "",
+      "likes": 0
+    }
+  ],
+  "photos": [
+    {
+      "id": 0,
+      "url": ""
+    }
+  ]
+}
